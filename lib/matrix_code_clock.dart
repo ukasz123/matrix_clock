@@ -36,9 +36,9 @@ final _darkTheme = {
 };
 
 final _webTheme = {
-  _Element.background: Color(0xFF182818),
-  _Element.text: Color.fromARGB(0xBB, 58, 237, 38),
-  _Element.shadow: Color.fromARGB(0xBB, 50, 177, 50),
+  _Element.background: Color(0xFF081808),
+  _Element.text: Color.fromARGB(0x33, 58, 237, 38),
+  _Element.shadow: Color.fromARGB(0x99, 50, 177, 50),
   _Element.codeTextColor: Colors.green.shade800,
   _Element.codeTextHighlightedColor: Colors.green.shade400,
 };
